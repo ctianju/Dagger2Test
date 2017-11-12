@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\50f3a6ddeae6ae99c96c89f6203af0358a511346\output\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_0ed5792abef8ec5d283570b8587f0fe89a55ac79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\52dff14cc37be638637a31a8a95ad2544a881909\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\classes_11351720b96c4c16368ed9ab5917dce6403f2dfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\79e447b0124179fafe185328383c47452a4f15ac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\classes_51c489b54aabe8a81b3d1dbe9c8447f9fd399aa3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\6b5646c4ca328018cab0e5cec06ee348dd22561f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\classes_25ec3ffe0d778c28a7d91a301de1e9abaaaaf137.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\83efe0a51f4bd5188aea4b4673e8816e2b844476\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\classes_2786a94d20b26aa0566e76dd73d9a69c997c0e83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\javax.inject-1_273da2ba53aedc2691b5c6c4485ebe7b12b6e634.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\097512d7cade1c1255112ff7ed29c9d35b4bd6b9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\classes_f7b8d45353c474eb5cfafa6afa82756c703da9ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\c07ecfcb9b811a26aad55078bba2de7a55e40b6e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\classes_959333f1529c3f5d3d336344ace834cf7814cee2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\2b100200169b4afcfea0d453317b1cdfae92564c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\classes_e149dc76d733de438c89bf5cac7ce94f2649e449.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\01f9cd880ebe191f790d52a36264b8ad6a5215ae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\classes_690b76b3c9d609f44d83a710aa072c32832592fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\ea9e056d90fcb81c449b1d591e0d6edebd2d0289\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\classes_3d759ba362c17b39f5bae75b047f7168b25e8850.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\d7b9111585a66a1cb4c3a82d4994cbcbf725a841\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\classes_b1307a969935a4345005dc35c50d77c41cece795.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_85f1a6cd8161dc03c6fa15d000a7580265c10fe0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\d33a5de593bdabf404da37b77316c5a01df405b5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\classes_624ae93e98bb650e2422fc24d2faad5209c0a7ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\bb4134cedc4f755ff47e057c50ead876033511d0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\classes_fb80f8f79bf8b6a926ed2ca43db19fa5e801ba55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\23e4276fdc3bd90d68f985e6a39e7e9e4a173a63\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\classes_35255daa1eff9b1d918f7388bf37078f526856c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\f475dc4113aa2496571624d6cce46b18d6251455\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\classes_d6dfe383a332a5171c5bf88c19a7885c24183fa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\791cd9f94d35990590a579b71e928c04d621a61c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\classes_64d5d8bea31d9952f099a608ae049b6096040ef1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\d8efcc0554bd06351e3872a7d9d1ca65a0afa4a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\classes_46a22286bb2f7b40aea22e1a516d099178d2b48a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\ef51ed2e22c44112d4fdf87df1da3a4864bf0ff6\output\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_bfb49e3ad42932e8f43df499e1820d3ad0090ca8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\d32faa45f7849e079468f529c87d432d15aa4eac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\classes_e7c3b11573f401bf9632163f343561ff7c9a78be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\69d97d7c2d11b5b6d1695a50cab1af7c2b3cb1c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\classes_c8f232b51bf0cffbb756e2e25867729640ef7f72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.0\da7ba0ee1d30edd955da276cdf01d3d7cb24aedc\dagger-2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da7ba0ee1d30edd955da276cdf01d3d7cb24aedc">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\dagger-2.0_a4e855d4bfae3695847fa452110add656ca7e309.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.glassfish\javax.annotation\10.0-b28\30eb3b3cc9cb0863a4edaea5a7575f8ace1b96ba\javax.annotation-10.0-b28.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30eb3b3cc9cb0863a4edaea5a7575f8ace1b96ba">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\javax.annotation-10.0-b28_0537ac66f5c16b0c323fe65159e843bc0103a062.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\802a4b11c3b5878e0294b3e54443d4b2f997fbb9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\classes_1d6467096aa7447f04b101a4a98e225ce6233891.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\c26b1cc0eee67d78968319cc48ba9a7e477df312\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\classes_d65170aa71d33673acaa40ce29c808b75327e642.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\44b9d76b86d96a486454d971ae4dfcea6b14482d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\classes_8efe3f36af85fc7ecda4674af6b86b8a00e77355.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\ec6ac43c12b35f10bf31c020b7cb47a6ddff9be7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\classes_03065ad439a719d7e35ea211e90211090f82b835.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\fe062e45872ae741f9271781f07987f38d86c049\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\classes_0f1f6a2710358ba67a08a4f5087cf13326b3ed16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\0875830ae0cdc3b97d9817ad739dbc15cd51604e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\classes_01c1a53bf4ae6c8f941465f7db15595252b1a0c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\a1972033c32721b10969fae250005b28bbb8bbc1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\classes_8dffed9bcee8d10a38ab903680ed8fa82a7e88a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\50f3a6ddeae6ae99c96c89f6203af0358a511346\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\classes_967867b7a3d20e4631ae03985ed52b642655f266.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\ef51ed2e22c44112d4fdf87df1da3a4864bf0ff6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\classes_ce9870642b398ad3e570d4fc5e08024a0b98154f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\5e9a37be63bc52e002207538f353cf9fe1cbf4a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="C:\Users\Administrator\Desktop\Dagger2Sample-master\app\build\intermediates\pre-dexed\debug\classes_0528b26402b75f7fff1b862b8beab305e0f3fe64.jar" />
+    </item>
+
+</items>
